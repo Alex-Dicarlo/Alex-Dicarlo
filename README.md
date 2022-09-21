@@ -1,4 +1,4 @@
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://imgflip.com/gif/6u5m2k))
+![Alt Text](https://imgflip.com/gif/6u5m2k)
 
 - 🌱 I’m currently learning to improve my skills at React 
 - 🤔 I’m looking for help with finding a job <3 
